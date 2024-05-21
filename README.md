@@ -1,6 +1,6 @@
 ## About Me
 
-Hello, I’m Peralta, a full-stack web developer specializing in e-commerce solutions using the LAMP stack. The repositories here are private; access is available to those who already have the appropriate contact information.
+Hello, I’m Peralta, a full-stack web developer specializing in e-commerce solutions using LAMP stack. The repositories here are private; access is available to those who already have the appropriate contact information.
 
 <!--
 **Peralta381/Peralta381** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
